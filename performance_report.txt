@@ -1,0 +1,22 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+==========================================
+Generated: 28-09-2026 13:00
+Number of students: 5
+Class average: 78.25
+
+TOP STUDENTS
+--------------------
+1. Kabir | Average: 90.75 | Grade: A+
+2. Aarav | Average: 84.25 | Grade: A
+3. Rohan | Average: 76.00 | Grade: B
+
+SUBJECT AVERAGES
+--------------------
+Mathematics: 78.20
+Physics: 73.40
+Programming: 82.40
+Communication: 79.00
+
+IMPROVEMENT AREAS
+--------------------
+Meera: Physics
